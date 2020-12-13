@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.foot {
+  font-size: large;
+  background-color: rebeccapurple;
+  padding: 4rem;
+}
